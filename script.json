@@ -1,6 +1,8 @@
 {
-    "HELLO": "Hey thanks for visiting!",
-    "TWITTER": "Let's tweet @markdeckerdesign! http://twitter.com/markdeck",
+    "hello" : "Hey thanks for visiting!",
+    "Hello" : "Hey thanks for visiting!",
+    "hi" : "Hey thanks for visiting!",
+    "TWITTER": "Let's tweet @markdeck! https://twitter.com/intent/tweet?screen_name=markdeck",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, DeckerBot is back."
