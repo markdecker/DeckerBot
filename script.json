@@ -1,7 +1,7 @@
 {
-    "hello" : "Hey thanks for visiting!",
+    "HELLO" : "Hey thanks for visiting!",
     "Hello" : "Hey thanks for visiting!",
-    "hi" : "Hey thanks for visiting!",
+    "HI" : "Hey thanks for visiting!",
     "TWITTER": "Let's tweet @markdeck! https://twitter.com/intent/tweet?screen_name=markdeck",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
